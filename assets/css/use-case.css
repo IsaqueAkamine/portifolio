@@ -1400,10 +1400,9 @@ section {
 }
 
 .project-description .des-inner p {
-  opacity: 0.6;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.88;
-  color: #071634;
+  color: #0a1f48;
   margin-bottom: 20px;
 }
 
@@ -1413,15 +1412,10 @@ section {
 
 .project-description ul li {
   font-family: "Roboto", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #0a1f48;
   font-weight: 500;
-  margin-bottom: 10px;
-  cursor: pointer;
-}
-
-.project-description ul li:nth-child(1) {
-  font-weight: bold;
+  margin-bottom: 12px;
 }
 
 .project-description ul li a {
